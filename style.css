@@ -6,9 +6,12 @@
 
 body
 {
-  background-image: url('backgroungpage.png');
+  background-image: url("https://stackblitz.com/files/js-bg3e5r/github/claritama/js-mwith6/master/imagenes/backgroungpage.png");
   box-sizing: border-box;
   font-family: sans-serif;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .menu-bar
